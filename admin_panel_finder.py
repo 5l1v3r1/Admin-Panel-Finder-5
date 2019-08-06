@@ -30,11 +30,10 @@ def findAdmin():
 			print "OK => ",req_link
 
 def Credit():
-	Space(9); print "#####################################"
-	Space(9); print "#   +++ TurKLoJeN Pentester +++     #"
-	Space(9); print "#       AnonsTurkey | HackerOne     #"
-	Space(9); print "#    fb/themightyturk tw/turklojen  #"
-	Space(9); print "#####################################"
-
+	print " ADMIN PANEL FINDER - CODED BY TURKLOJEN - TURKISH PENTESTER"
+    print " Iletisim Adresleri"
+    print " facebook.com/themightyturk"
+    print " twitter.com/turklojen"
+    print " instagram.com/turklojen"
 Credit()
 findAdmin()
